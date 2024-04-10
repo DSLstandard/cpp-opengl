@@ -3,6 +3,8 @@
 #include "cppmc/world.hpp"
 #include "cppmc/world_common.hpp"
 
+#define GLM_ENABLE_EXPERIMENTAL
+
 #include <iostream>
 #include <glm/ext/quaternion_trigonometric.hpp>
 #include <glm/gtc/quaternion.hpp>

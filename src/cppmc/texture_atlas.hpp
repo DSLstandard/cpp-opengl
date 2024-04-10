@@ -1,6 +1,9 @@
 #pragma once
 
 #include "cppmc/world_common.hpp"
+
+#define GLM_ENABLE_EXPERIMENTAL
+
 #include <GL/glew.h>
 #include <glm/glm.hpp>
 #include <map>
